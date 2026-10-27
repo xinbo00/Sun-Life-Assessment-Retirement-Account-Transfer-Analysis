@@ -41,7 +41,7 @@ The project highlights the importance of proactive engagement, timely follow-up,
 
 ## Dashboard Preview
 
-![Tableau Dashboard Preview](images/dashboard_preview.png)
+![Tableau Dashboard Preview](tab1.png)
 
 ## Repository Structure
 
