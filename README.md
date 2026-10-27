@@ -62,7 +62,3 @@ retirement-account-transfer-analysis/
 
 SQL | Data Cleaning | Data Transformation | Tableau | Data Visualization | Financial Analytics | Customer Segmentation | KPI Development
 
-## Project Note
-
-This repository is intended to showcase analytical methods and technical skills. Any publicly shared code or visualizations should use materials cleared for public disclosure and exclude confidential assessment content and proprietary data.
-  
